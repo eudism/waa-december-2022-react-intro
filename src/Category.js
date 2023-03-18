@@ -1,6 +1,6 @@
 const Category = () => {
     return ( 
-        <h2>category</h2>
+        <h3>category</h3>
      );
 }
  

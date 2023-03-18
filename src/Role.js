@@ -18,8 +18,8 @@ const Role = () => {
   return (<div>
     <thead>
       <tr>
-        <th scope="col">ID</th>
-        <th scope="col">Role</th>
+        <th scope="col">userId</th>
+        <th scope="col">userRole</th>
       </tr>
     </thead>
 

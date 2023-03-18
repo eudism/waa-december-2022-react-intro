@@ -37,6 +37,8 @@ const fetchById = async() => {
                         <th scope="col">Last Name</th>
                         <th scope="col">Email</th>
                         <th scope="col">Role</th>
+                        <th scope="col">Password</th>
+                        <th scope="col">Age</th>
 
                     </tr>
                 </thead>
